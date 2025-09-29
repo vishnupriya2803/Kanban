@@ -130,10 +130,10 @@ body{
   max-width: 300px;
   gap:2rem;
   padding: 1rem;
-  border: 3px dashed #a52a2a;
+  border: 3px dashed #6ca52a;
   border-radius: 16px;
   background: rgba(255, 235, 205, 0.7);
-  color: #a52a2a;
+  color: #6ca52a;
   font-weight: bold;
   font-size: 1.1rem;
   transition: background 0.2s, color 0.2s, box-shadow 0.2s;
