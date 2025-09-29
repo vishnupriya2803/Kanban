@@ -128,7 +128,9 @@ body{
   justify-content: center;
   min-height: 350px;
   max-width: 300px;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
+  gap:2rem;
+  padding: 1rem;
   border: 3px dashed #a52a2a;
   border-radius: 16px;
   background: rgba(255, 235, 205, 0.7);
