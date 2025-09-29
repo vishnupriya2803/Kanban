@@ -128,7 +128,6 @@ body{
   justify-content: center;
   min-height: 350px;
   max-width: 300px;
-  /* margin-top: 2rem; */
   gap:2rem;
   padding: 1rem;
   border: 3px dashed #a52a2a;
